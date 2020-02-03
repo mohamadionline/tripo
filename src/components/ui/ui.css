@@ -1,0 +1,11 @@
+/* @media screen and (min-width: 1024px){
+  .responsive{
+    display: flex;
+    align-items: flex-start;
+    position: fixed;
+  }
+} */
+.responsive{
+  float: right !important;
+
+}
